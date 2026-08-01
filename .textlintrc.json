@@ -1,0 +1,14 @@
+{
+  "filters": {
+    "comments": true
+  },
+  "rules": {
+    "preset-ja-spacing": true,
+    "preset-japanese-introductory-modern-writing": true,
+    "ja-no-mixed-period": true,
+    "no-exclamation-question-mark": {
+      "allowFullWidthExclamation": true,
+      "allowFullWidthQuestion": true
+    }
+  }
+}
